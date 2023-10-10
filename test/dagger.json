@@ -1,0 +1,9 @@
+{
+  "name": "test",
+  "sdk": "go",
+  "sdkRuntime": "vito/dagger-sdk-go:no-vcs-flag@sha256:0fcc9d2659cdd551acb7aaf25e77215e9687475eb89ec06cae989eaf332ee480",
+  "dependencies": [
+    "github.com/jedevc/daggerverse-test/bar@736b5695ede8020932975af85e18e7ebfc7acfc8",
+    "github.com/jedevc/daggerverse-test/foo@736b5695ede8020932975af85e18e7ebfc7acfc8"
+  ]
+}
